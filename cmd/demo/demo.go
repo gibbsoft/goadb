@@ -8,7 +8,7 @@ import (
 	"log"
 	"time"
 
-	adb "github.com/gibbsoft/goadb"
+	adb "github.com/zach-klippenstein/goadb"
 )
 
 var (

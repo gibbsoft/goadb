@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/gibbsoft/goadb/services"
+	"github.com/zach-klippenstein/goadb/services"
 	"github.com/prife/gomlib"
 	log "github.com/sirupsen/logrus"
 )

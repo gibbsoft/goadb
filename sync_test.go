@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	adb "github.com/gibbsoft/goadb"
-	"github.com/gibbsoft/goadb/wire"
+	adb "github.com/zach-klippenstein/goadb"
+	"github.com/zach-klippenstein/goadb/wire"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	adb "github.com/gibbsoft/goadb"
+	adb "github.com/zach-klippenstein/goadb"
 	"github.com/stretchr/testify/assert"
 )
 

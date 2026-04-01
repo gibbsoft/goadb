@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gibbsoft/goadb/wire"
+	"github.com/zach-klippenstein/goadb/wire"
 )
 
 type DeviceInfo struct {

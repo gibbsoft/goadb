@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gibbsoft/goadb/wire"
+	"github.com/zach-klippenstein/goadb/wire"
 )
 
 const (

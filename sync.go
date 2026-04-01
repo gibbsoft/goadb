@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/gibbsoft/goadb/wire"
+	"github.com/zach-klippenstein/goadb/wire"
 )
 
 func ListAllSubDirs(localDir string) (list []string, err error) {

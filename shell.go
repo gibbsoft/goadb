@@ -8,7 +8,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/gibbsoft/goadb/wire"
+	"github.com/zach-klippenstein/goadb/wire"
 )
 
 // RunShellCommand runs the specified commands on a shell on the device.

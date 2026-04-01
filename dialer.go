@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/gibbsoft/goadb/wire"
+	"github.com/zach-klippenstein/goadb/wire"
 )
 
 // Dialer knows how to create connections to an adb server.
