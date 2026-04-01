@@ -3,7 +3,7 @@ package adb
 import (
 	"fmt"
 
-	"github.com/prife/goadb/wire"
+	"github.com/gibbsoft/goadb/wire"
 )
 
 // DeviceState represents one of the 3 possible states adb will report devices.

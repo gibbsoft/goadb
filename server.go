@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/prife/goadb/wire"
+	"github.com/gibbsoft/goadb/wire"
 )
 
 const (

@@ -10,7 +10,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/prife/goadb/wire"
+	"github.com/gibbsoft/goadb/wire"
 )
 
 // DeviceWatcher publishes device status change events.

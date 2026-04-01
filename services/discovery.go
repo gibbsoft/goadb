@@ -3,7 +3,7 @@ package services
 import (
 	"context"
 
-	adb "github.com/prife/goadb"
+	adb "github.com/gibbsoft/goadb"
 	"github.com/prife/gomlib"
 	log "github.com/sirupsen/logrus"
 )

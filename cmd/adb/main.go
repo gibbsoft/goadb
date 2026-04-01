@@ -12,8 +12,8 @@ import (
 
 	"github.com/alecthomas/kingpin/v2"
 	"github.com/cheggaaa/pb"
-	adb "github.com/prife/goadb"
-	"github.com/prife/goadb/wire"
+	adb "github.com/gibbsoft/goadb"
+	"github.com/gibbsoft/goadb/wire"
 )
 
 const StdIoFilename = "-"

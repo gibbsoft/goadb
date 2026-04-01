@@ -9,7 +9,7 @@ import (
 	"os"
 	"testing"
 
-	adb "github.com/prife/goadb"
+	adb "github.com/gibbsoft/goadb"
 	"github.com/stretchr/testify/assert"
 )
 

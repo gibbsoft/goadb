@@ -11,7 +11,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/prife/goadb/wire"
+	"github.com/gibbsoft/goadb/wire"
 )
 
 // A Session represents a connection to a remote command or shell.

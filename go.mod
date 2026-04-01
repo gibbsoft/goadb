@@ -1,4 +1,4 @@
-module github.com/prife/goadb
+module github.com/gibbsoft/goadb
 
 go 1.18
 
